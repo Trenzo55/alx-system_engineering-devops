@@ -8,5 +8,6 @@
 6-firstdirectory script will create a dirctory in /tmp
 7-movethatfile will move file from tmp to sub folder under tmp
 8-firstdelete will delete the file  betty from sub directory of tmp
-9-firstdirdeletion will delete a directory from tmp												
+9-firstdirdeletion will delete a directory from tmp
+10-back will take you to previous working directory												
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
