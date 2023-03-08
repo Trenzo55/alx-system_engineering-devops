@@ -9,5 +9,6 @@
 7-movethatfile will move file from tmp to sub folder under tmp
 8-firstdelete will delete the file  betty from sub directory of tmp
 9-firstdirdeletion will delete a directory from tmp
-10-back will take you to previous working directory												
+10-back will take you to previous working directory
+11-lists will list content working directory, parent of working directory and /boot											
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
