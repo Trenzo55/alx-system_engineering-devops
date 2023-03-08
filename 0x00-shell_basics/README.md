@@ -7,5 +7,6 @@
 5-listfilesdigitonly will list all contents with user and group IDs displayed numerically
 6-firstdirectory script will create a dirctory in /tmp
 7-movethatfile will move file from tmp to sub folder under tmp
-8-firstdelete will delete the file  betty from sub directory of tmp													
+8-firstdelete will delete the file  betty from sub directory of tmp
+9-firstdirdeletion will delete a directory from tmp												
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
