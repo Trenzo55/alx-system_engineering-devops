@@ -17,5 +17,5 @@
 101-clean_emacs will clean all files ending with ~
 102-tree will make a number of directories
 103-commas lists all the files and directories of the current directory, separated by commas (,).
-											
+school.mgc can be used with the command file to detect School data files											
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
