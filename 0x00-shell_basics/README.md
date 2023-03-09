@@ -11,5 +11,6 @@
 9-firstdirdeletion will delete a directory from tmp
 10-back will take you to previous working directory
 11-lists will list content working directory, parent of working directory and /boot
-12-file_type will prints the type of the file named iamafile											
+12-file_type will prints the type of the file named iamafile
+13-symbolic_link that does an ls of /bin											
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
