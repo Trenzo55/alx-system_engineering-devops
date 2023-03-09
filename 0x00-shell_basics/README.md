@@ -14,5 +14,6 @@
 12-file_type will prints the type of the file named iamafile
 13-symbolic_link that does an ls of /bin
 14-copy_html will copy html file from working dir to parent dir
-101-clean_emacs will clean all files starting with ~											
+101-clean_emacs will clean all files ending with ~
+102-tree will make a number of directories											
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
