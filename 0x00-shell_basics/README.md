@@ -13,5 +13,6 @@
 11-lists will list content working directory, parent of working directory and /boot
 12-file_type will prints the type of the file named iamafile
 13-symbolic_link that does an ls of /bin
-14-copy_html will copy html file from working dir to parent dir											
+14-copy_html will copy html file from working dir to parent dir
+101-clean_emacs will clean all files starting with ~											
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
