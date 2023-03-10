@@ -12,5 +12,6 @@
 10-mirror_permissions script will mirror permissions
 11-directories_permissions will give execute permission to dir and sub dir
 12-directory_permissions creates a directory with a certain permission
-13-change_group script changes group of certain file  
+13-change_group script changes group of certain file
+101-symbolic_link_permissions script changes the owner:group of a slink   
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
