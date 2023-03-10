@@ -15,5 +15,6 @@
 13-change_group script changes group of certain file
 101-symbolic_link_permissions script changes the owner:group of a slink
 102-if_only script will cahnge owner if it meets  a certian criterion
-103-Star_Wars script will play star war on terminal    
+103-Star_Wars script will play star war on terminal
+100-change_owner_and_group -R for all files and folder    
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
