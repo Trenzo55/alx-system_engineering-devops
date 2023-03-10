@@ -11,5 +11,6 @@
 9-John_Doe set the mode to 753
 10-mirror_permissions script will mirror permissions
 11-directories_permissions will give execute permission to dir and sub dir
-12-directory_permissions creates a directory with a certain permission 
+12-directory_permissions creates a directory with a certain permission
+13-change_group script changes group of certain file  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
