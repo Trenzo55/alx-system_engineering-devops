@@ -10,5 +10,6 @@
 8-James_Bond script will remove permission from all user except o group
 9-John_Doe set the mode to 753
 10-mirror_permissions script will mirror permissions
-11-directories_permissions will give execute permission to dir and sub dir 
+11-directories_permissions will give execute permission to dir and sub dir
+12-directory_permissions creates a directory with a certain permission 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
