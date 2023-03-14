@@ -22,4 +22,5 @@
 20-hiago Create a script that removes all letters c and C from input
 21-reverse as the name implies reverse input
 22-users_and_homes print just 2 fields
+100-empty_casks display names of empty files and directories
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
