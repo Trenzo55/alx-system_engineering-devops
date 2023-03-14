@@ -15,4 +15,6 @@
 13-unique script sorts and send non duplicate lines
 14-findthatword script finds word root
 15-countthatword script number of lines of a pattern
+16-whatsnext Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
