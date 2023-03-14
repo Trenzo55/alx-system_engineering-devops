@@ -13,4 +13,5 @@
 11-directories script count directories and sub directores but not parent
 12-newest_files script that displays the 10 newest files in the current directory
 13-unique script sorts and send non duplicate lines
+14-findthatword script finds word root
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
