@@ -1,3 +1,4 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 0-hello_world script that prints “Hello, World”, followed by a new line to the standard output
 1-confused_smiley script that displays a confused smiley "(Ôo)'
 2-hellofile script Display the content of the /etc/passwd file
@@ -11,3 +12,5 @@
 10-no_more_js script that find and delete .js files
 11-directories script count directories and sub directores but not parent
 12-newest_files script that displays the 10 newest files in the current directory
+13-unique script sorts and send non duplicate lines
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
