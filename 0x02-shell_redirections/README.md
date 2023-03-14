@@ -23,4 +23,5 @@
 21-reverse as the name implies reverse input
 22-users_and_homes print just 2 fields
 100-empty_casks display names of empty files and directories
+101-gifs Write a script that lists all the files with a .gif extension in the current directory
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
